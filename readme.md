@@ -21,16 +21,21 @@
 <ul>Classical Machine Learning</ul>
 <ul>Computer Vision: CNN, Transformer</ul>
 <ul>Natural Language Processing: ...</ul>
-<h3>Metaverse</h3>
-<ul>Base: Unity, Maya</ul>
-<ul>UI: HTML/CSS</ul>
-<ul></ul>
+
 <h3>Fintech</h3>
 <ul>Webscraping</ul>
 <ul></ul>
 <ul></ul>
+
 <h3>Website</h3>
 <ul>HTML/CSS</ul>
+
+<h3>Web 3</h3>
+<h4>Metaverse</h4>
+<ul>Base: Unity, Maya</ul>
+<ul>UI: HTML/CSS</ul>
+<h4>Defi</h4>
+
 
 <!--/session 3-->
 
