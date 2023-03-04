@@ -27,7 +27,7 @@
 <ul></ul>
 
 <h3>Website</h3>
-<ul>HTML/CSS</ul>
+<ul>HTML/CSS/Flask</ul>
 
 <h3>Web 3</h3>
     <ol><h4>Metaverse</h4></ol>
