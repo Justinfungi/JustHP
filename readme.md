@@ -18,9 +18,9 @@
 <h2>Directions:</h2>
 
 <h3>AI Tech</h3>
-<ul>Classical Machine Learning</ul>
-<ul>Computer Vision: CNN, Transformer</ul>
-<ul>Natural Language Processing: ...</ul>
+<ul>Classical Machine Learning - </ul>
+<ul>Computer Vision: CNN, Transformer, Yolo-v7</ul>
+<ul>Natural Language Processing: LSTM, Bert</ul>
 
 <h3>Fintech</h3>
 <ul>Webscraping</ul>
@@ -36,6 +36,12 @@
     <ol><ul>UI: HTML/CSS</ul></ol>
     <ol><h4>Defi</h4></ol>
 
+<h2>Projects under construction:</h2>
+<ul> Optymize </ul>
+<ul>Stock sentiment analysis, price time time series analysis</ul>
+<ul>AI music generation</ul>
+<ul>Qfin - DCF model automation</ul>
+<ul>CV - sports </ul>
 
 <!--/session 3-->
 
