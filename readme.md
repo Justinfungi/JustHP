@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinfungi&label=Profile%20views&color=0e75b6&style=flat" alt="justinfungi" /> </p>
 <h1 align="center">Hi 👋, I'm Justin Fung</h1>
-<h3 align="center">AI engineer</h3>
+
+<h3 align="center">AI engineer & Enthusiastic, Junior Quant, Web3 DeFi, Full stack developer</h3>
 
 
 <!--session 2-->
