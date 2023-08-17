@@ -19,14 +19,14 @@
 <h2>Directions:</h2>
 
 <h3>AI Tech</h3>
-<ul>Classical Machine Learning - </ul>
-<ul>Computer Vision: CNN, Transformer, Yolo-v7</ul>
+<ul>Classical Machine Learning </ul>
+<ul>Computer Vision: CNN, Transformer, Yolo-v7/v8, Diffusion Models, GAN</ul>
 <ul>Natural Language Processing: LSTM, Bert</ul>
 
 <h3>Fintech</h3>
 <ul>Webscraping</ul>
-<ul></ul>
-<ul></ul>
+<ul>Algo trading strategy building</ul>
+<ul>Market Breath Monitoring</ul>
 
 <h3>Website</h3>
 <ul>HTML/CSS/Flask</ul>
