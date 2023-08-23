@@ -7,12 +7,13 @@
 
 
 <!--session 2-->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Justinfungi&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=radical" style="width: 56%; max-width: 58%; min-width: 58%;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justinfungi&layout=compact&count_private=true&theme=radical" style="width: 40%; max-width: 40%; min-width: 40%;">   
-  
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinfungi&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justinfungi&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justinfungi&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=justinfungi&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=justinfungi&theme=radical&utcOffset=8)
+
 <!-- /session 2-->
 
 <!--session 3-->
