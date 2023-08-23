@@ -6,11 +6,12 @@
 <h3 align="center">AI engineer & Enthusiastic, Junior Quant, Web3 DeFi, Full stack developer</h3>
 
 
-<!--session 2-->
+<!--session 2
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justinfungi&theme=radical&exclude=jupyter%20notebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justinfungi&theme=radical)
+-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinfungi&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justinfungi&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justinfungi&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=justinfungi&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=justinfungi&theme=radical&utcOffset=8)
 
