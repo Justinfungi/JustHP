@@ -23,7 +23,8 @@
 <h3>AI Tech</h3>
 <ul>Classical Machine Learning </ul>
 <ul>Computer Vision: CNN, Transformer, Yolo-v7/v8, Diffusion Models, GAN</ul>
-<ul>Natural Language Processing: LSTM, Bert</ul>
+<ul>Generative AI: 3D GAN, NeRF, Gaussian Splatting</ul>
+<ul>Natural Language Processing: LSTM, Bert, RAG technique, LLM(LLama, Gemma)</ul>
 
 <h3>Fintech</h3>
 <ul>Webscraping</ul>
@@ -31,7 +32,8 @@
 <ul>Market Breath Monitoring</ul>
 
 <h3>Website</h3>
-<ul>HTML/CSS/Flask</ul>
+<ul>HTML/CSS/Javasript</ul>
+<ul>Flask API</ul>
 
 <h3>Web 3</h3>
     <ol><h4>Metaverse</h4></ol>
